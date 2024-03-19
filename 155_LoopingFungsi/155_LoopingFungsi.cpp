@@ -11,11 +11,11 @@ int main()
     cout << "Nilai 1 terakhir :" << i << endl;
     
     for (i = 0; i < 5; i++) {
-        cout << "Masukan Nilai index ke-" << i << ":" << arr[i] << endl;
+        cout << "Masukan Nilai index ke-" << i << ":" << i << endl;
         cin >> arr[i];
 
         for (i = 0; i < 5; i++) {
-            
+            cout << "Data Array ke-" << i << " :" << arr[i] << endl;
     }
         
     }
