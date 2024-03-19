@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_WhileLoop", "155_WhileL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_DoWhileloop", "155_DoWhileloop\155_DoWhileloop.vcxproj", "{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_Prosedur dan fungsi Persegi Panjang", "155_Prosedur dan fungsi Persegi Panjang\155_Prosedur dan fungsi Persegi Panjang.vcxproj", "{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x64.Build.0 = Release|x64
 		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x86.ActiveCfg = Release|Win32
 		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x86.Build.0 = Release|Win32
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Debug|x64.ActiveCfg = Debug|x64
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Debug|x64.Build.0 = Debug|x64
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Debug|x86.Build.0 = Debug|Win32
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Release|x64.ActiveCfg = Release|x64
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Release|x64.Build.0 = Release|x64
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Release|x86.ActiveCfg = Release|Win32
+		{0FBCB1A1-996A-49C1-B4E9-08F2E443C48D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
