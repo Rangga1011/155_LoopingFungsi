@@ -13,6 +13,10 @@ int main()
     for (i = 0; i < 5; i++) {
         cout << "Masukan Nilai index ke-" << i << ":" << arr[i] << endl;
         cin >> arr[i];
+
+        for (i = 0; i < 5; i++) {
+            
+    }
         
     }
 }
