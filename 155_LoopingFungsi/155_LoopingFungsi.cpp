@@ -9,5 +9,9 @@ int main()
         cout << i << "Selamat Pagi Dunia" << endl;
     }
     cout << "Nilai 1 terakhir :" << i << endl;
+    
+    for (i = 0; i < 5; i++) {
+        
+    }
 }
 
