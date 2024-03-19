@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_LoopingFungsi", "155_Lo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_WhileLoop", "155_WhileLoop\155_WhileLoop.vcxproj", "{F4217E00-9464-4C35-8B7B-B0E32015818A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "155_DoWhileloop", "155_DoWhileloop\155_DoWhileloop.vcxproj", "{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F4217E00-9464-4C35-8B7B-B0E32015818A}.Release|x64.Build.0 = Release|x64
 		{F4217E00-9464-4C35-8B7B-B0E32015818A}.Release|x86.ActiveCfg = Release|Win32
 		{F4217E00-9464-4C35-8B7B-B0E32015818A}.Release|x86.Build.0 = Release|Win32
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Debug|x64.ActiveCfg = Debug|x64
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Debug|x64.Build.0 = Debug|x64
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Debug|x86.Build.0 = Debug|Win32
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x64.ActiveCfg = Release|x64
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x64.Build.0 = Release|x64
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x86.ActiveCfg = Release|Win32
+		{AC1F01BD-ED9E-4984-AF43-7F3B54DD1EF4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
